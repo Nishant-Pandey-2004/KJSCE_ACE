@@ -1,0 +1,8 @@
+gradio
+pandas
+numpy
+pickle-mixin
+folium
+datetime
+geopy
+plotly
